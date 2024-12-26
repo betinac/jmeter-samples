@@ -1,5 +1,9 @@
 # jmeter-samples
 
+Introduction on how to run performance tests with JMETER.
+
+![Alt text](/images/Jmeter-logo.png "JMETER Logo")
+
 ## Pre-requisites
 * Check you have JAVA installed: `java -version`
 
@@ -57,6 +61,6 @@ We use them to gather info, save, view and analyze the performance test results 
     ![Alt text](/images/Test_Plan.png "Add a new Test Plan")
 * [First basic test](/docs/tests/first-test.md "Add your first basic test")
 * [Second test - Simulate multiple users](/docs/tests/second-test.md "Run a test with multiple users")
-* [Third test - Assert the content](/docs/tests/second-test.md "Assert the content of the results")
-* [Fourth test - Check report types](/docs/tests/second-test.md "Check the different report types")
-* [Fifth test - Run the tests from the CLI](/docs/tests/second-test.md "Run the tests from the CLI")
+* [Third test - Assert the content](/docs/tests/third-test.md "Assert the content of the results")
+* [Fourth test - Check report types](/docs/tests/fourth-test.md "Check the different report types")
+* [Fifth test - Run the tests from the CLI](/docs/tests/fifth-test.md "Run the tests from the CLI")
