@@ -1,6 +1,6 @@
 # SIXTH TEST
 
-Let's test a REST and SOAP API endpoint.
+Let's test a REST API endpoint.
 
 * For the REST API test, let's add a new Thread Group to simulate only 1 single user running the test.
 
