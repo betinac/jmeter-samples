@@ -64,3 +64,4 @@ We use them to gather info, save, view and analyze the performance test results 
 * [Third test - Assert the content](/docs/tests/third-test.md "Assert the content of the results")
 * [Fourth test - Check report types](/docs/tests/fourth-test.md "Check the different report types")
 * [Fifth test - Run the tests from the CLI](/docs/tests/fifth-test.md "Run the tests from the CLI")
+* [Sixth test - REST API test](/docs/tests/fifth-test.md "REST API tests")
